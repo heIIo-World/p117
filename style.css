@@ -1,0 +1,15 @@
+body {
+    background-color:aliceblue;
+}
+
+#score {
+    font-size:20px;
+    float:left;
+      margin-left: 10px;
+}
+
+#timer {
+    font-size:20px;
+    float:right;
+      margin-right:100px
+}
